@@ -19,6 +19,13 @@
 
 ---
 
+### [!] SECURE_COMMS
+**Encrypted Stream Key (AES-256-CBC):**
+`U2FsdGVkX19v8nJ7Y+P0v9v5X5/H2qZ/7V8nJ7Y+P0v9v5X5/H2qZ/`
+> Note: To decrypt the `hint.mp4` in my **[favourite_music](https://github.com/kernelking633/favourite_music)** repo, use the IV found in the kernel stack trace below.
+
+---
+
 ### 🚨 CRITICAL_INCIDENT: 2026-03-19
 **Kernel log dump (`dmesg`):**
 ```c
