@@ -19,10 +19,11 @@
 
 ---
 
-### [!] SECURE_COMMS
-**Encrypted Stream Key (AES-256-CBC):**
-`U2FsdGVkX19v8nJ7Y+P0v9v5X5/H2qZ/7V8nJ7Y+P0v9v5X5/H2qZ/`
-> Note: To decrypt the `hint.mp4` in my **[favourite_music](https://github.com/kernelking633/favourite_music)** repo, use the IV found in the kernel stack trace below.
+### 🚨 [!] AUDIO_SIGNAL_LEAK
+**Attention:** I've moved the emergency access key to an audio-steganography layer.
+The file `hint.mp4` in my **[favourite_music](https://github.com/kernelking633/favourite_music)** repository contains a high-frequency data burst. 
+
+> **INSTRUCTION:** You need to **LISTEN** very closely to the background noise. If you can't hear it, use a spectrogram. The password is in the audio track. **DO NOT IGNORE THE SIGNAL.**
 
 ---
 
